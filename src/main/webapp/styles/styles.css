@@ -1,0 +1,20 @@
+.displayspace{
+    margin-top: 160px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.tabledisplay {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.space{
+	margin-top: 40px;
+}
+
+.bg{
+	background-color: #159439;
+}

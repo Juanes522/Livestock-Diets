@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf17156348021350" configfile="/Livestock-Diets/src/main/webapp/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="index.xhtml" id="pf17156476132415" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" outlinks="pf17156476132416" inlinks="pf17156476132416" path="/index.xhtml"/>
+  <links id="pf17156476132416" target="pf17156476132415" source="pf17156476132415" outcome="success"/>
+</pageflow:Pageflow>
